@@ -1,0 +1,15 @@
+# Personal-Diary-Project
+The user will enter his/her diary material; it would be then copied to a file where the user can access and edit it again via the user's account.
+#login
+#if credentials there:
+    #read  the file of the user
+    #print it
+    #the user will enter the diary material
+    #quit
+    #save its entry
+    #exit the program
+#else:
+    #register
+    #after registration, create a file with corresponding name
+    #again login
+
